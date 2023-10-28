@@ -1,0 +1,3 @@
+# use the 'extended' environment
+
+- pip install cameratransform == 1.2

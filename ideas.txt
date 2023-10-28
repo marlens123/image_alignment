@@ -1,0 +1,5 @@
+IMAGE ALIGNMENT IDEAS:
+
+- undistort VIS and IR and hope that its matching
+- pcolormesh IR, rotate such that axis is parallel, hope that its on the same spot of VIS
+- Lorenzos algorithm?
